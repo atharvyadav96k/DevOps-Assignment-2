@@ -1,0 +1,5 @@
+fileName = input("Enter the file name: ")
+file = open(fileName, "r")
+print("Content of the file:")
+print(file.read())
+file.close()
