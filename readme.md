@@ -21,3 +21,8 @@ Here in the code we added option where use will able to create file
 add content to file 
 
 and will be able to read / display the content of the file 
+
+# Read any file using this code
+here use need to enter the file name
+
+application will display the content of any file
